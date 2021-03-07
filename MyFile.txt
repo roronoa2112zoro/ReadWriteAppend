@@ -1,0 +1,6 @@
+Hi, this is my first text in this file!!!
+I will be adding my views in this particular file
+Good Bye!!!
+Appending new text to this file!!!
+It looks like the appending worked perfectly. Hope to do some more work with this file in future
+See you Again!!!
