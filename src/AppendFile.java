@@ -5,7 +5,7 @@ import java.io.IOException;
 public class AppendFile {
     public static void main(String[] args){
         try{
-            FileWriter writer = new FileWriter("Myfile.txt", true);
+            FileWriter writer = new FileWriter("MyFile.txt", true);
             BufferedWriter bw = new BufferedWriter(writer);
 
             bw.write("Appending new text to this file!!!");
